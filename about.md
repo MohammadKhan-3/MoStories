@@ -4,13 +4,18 @@ title: About
 permalink: /about/
 ---
 
-<p class="message">
+<!-- <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+</p> -->
 
-Hydure is a concise two-column blog theme for Jekyll. It is built on the [Pure.css](https://github.com/pure-css/pure) framework.
+Mohammad Khan is a mechanical engineering student with a passion for writing stories & screenplays much to the confusion of friends and family. When questioned about his hobbies and careers, he says “it’s fun but also it’s not”
 
-Learn more and contribute on [GitHub](https://github.com/zivong/jekyll-theme-hydure).
+He has been writing weekly stories & screenplays since Feb 2020 and posting them on his website: MoStories with the tagline Grab a cup of joe and read some Mo. The genres range from sci-fi to realistic fiction to creative nonfiction. He writes whatever story comes to mind and what he can finish within the week.
+
+When he’s not writing or engineering, he’s reading nonfiction books on variety of topics. Only to realize the world doesn’t open up to those who read but to those who explore. And that’s what he feels his purpose is when it comes to his stories, to explore.
+
+Post Note: after writing this bio, the author realized, he knew nothing about writing author bios
+
 
 ## Setup
 
@@ -20,8 +25,6 @@ Some fun facts about the setup of this project include:
 - Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
 - Coded with [Visual Studio Code](https://code.visualstudio.com/), an amazing open-source code editor
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/zivong/jekyll-theme-hydure/issues/new) or [ask me on Twitter](https://twitter.com/zivong91).
-
 Thanks for reading!
 
-The default cover image is from [Nick Rickert](https://unsplash.com/@nick_rickert), thanks!
+The default cover image is from [Benjamin Behre](https://unsplash.com/@hellothisisbenjamin), 
