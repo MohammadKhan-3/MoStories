@@ -2,8 +2,12 @@
   url: /
 - title: About
   url: /about/
-- title: Archive
-  url: /archive/
+- title: Short Stories
+  url: /shortstory/
+- title: Screenplays
+  url: /screenplays/
+- title: Memoir
+  url: /memoir/
 - title: Download
   url: https://github.com/zivong/jekyll-theme-hydure/archive/refs/heads/master.zip
 - title: GitHub
