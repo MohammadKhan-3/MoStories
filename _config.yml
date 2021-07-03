@@ -1,9 +1,16 @@
-title: Hydure
-tagline: A concise two-column blog theme for Jekyll
+title: MoStories
+tagline: Grab a cup of Joe and read some MoStories
 
-author:
-  name: Song-Zi Vong
-  url: https://twitter.com/zivong91
+author: 
+  name: Mohammad Khan
+  url: https://mohammadkhan-3.github.io/resume/
+  
+# title: Hydure
+# tagline: A concise two-column blog theme for Jekyll
+
+# author:
+#   name: Song-Zi Vong
+#   url: https://twitter.com/zivong91
 
 plugins:
   - jekyll-feed
