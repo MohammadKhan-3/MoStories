@@ -14,7 +14,7 @@ He has been writing weekly stories & screenplays since Feb 2020 and posting them
 
 When he’s not writing or engineering, he’s reading nonfiction books on variety of topics. Only to realize the world doesn’t open up to those who read but to those who explore. And that’s what he feels his purpose is when it comes to his stories, to explore.
 
-Post Note: after writing this bio, the author realized, he knew nothing about writing author bios
+*Post Note: after writing this bio, the author realized, he knew nothing about writing author bios*
 
 
 ## Setup
@@ -23,8 +23,6 @@ Some fun facts about the setup of this project include:
 
 - Built for [Jekyll](https://jekyllrb.com)
 - Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Visual Studio Code](https://code.visualstudio.com/), an amazing open-source code editor
+- Coded with [Sublime Text](https://www.sublimetext.com/), an amazing open-source code editor
 
-Thanks for reading!
-
-The default cover image is from [Benjamin Behre](https://unsplash.com/@hellothisisbenjamin), 
+*The cover image is from [Benjamin Behre](https://unsplash.com/@hellothisisbenjamin)*
