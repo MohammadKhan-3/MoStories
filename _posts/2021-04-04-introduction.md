@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction
+title: THIS IS A TEST
 author: [Mark Otto, Song-Zi Vong]
 category: [Example]
 tags: [jekyll, pure]
