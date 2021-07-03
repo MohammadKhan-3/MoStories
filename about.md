@@ -16,6 +16,8 @@ When he’s not writing or engineering, he’s reading nonfiction books on varie
 
 *Post Note: after writing this bio, the author realized, he knew nothing about writing author bios*
 
+View Mohammad Khan's other work on his [Online Portfolio](https://mohammadkhan-3.github.io/resume/)
+
 
 ## Setup
 

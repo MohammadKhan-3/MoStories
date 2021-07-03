@@ -1,6 +1,6 @@
-- title: Portfolio
-  url: https://mohammadkhan-3.github.io/resume/
-  icon: fas fa-envelope
+# - title: Portfolio
+#   url: https://mohammadkhan-3.github.io/resume/
+#   icon: fas fa-envelope
 - title: LinkedIn
   url: https://www.linkedin.com/in/mohammadkhan1859
   icon: fab fa-linkedin
