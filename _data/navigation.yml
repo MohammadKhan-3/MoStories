@@ -2,15 +2,17 @@
 #   url: /home/
 - title: About
   url: /about/
-- title: Subscribe for Weekly Stories
-  url: http://eepurl.com/hziK8P
-  # /subscribe/
+- title: Online Porfolio
+  url: https://mohammadkhan-3.github.io/resume/
 - title: Short Stories
   url: /shortstory/
 - title: Screenplays
   url: /screenplays/
 - title: Memoir
   url: /memoir/
+- title: Subscribe for Weekly Stories
+  url: http://eepurl.com/hziK8P
+  # /subscribe/
 # - title: Download Jekyll Theme
 #   url: https://github.com/zivong/jekyll-theme-hydure/archive/refs/heads/master.zip
 #- title: GitHub
