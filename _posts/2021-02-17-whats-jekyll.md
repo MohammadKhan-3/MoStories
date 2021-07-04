@@ -102,10 +102,3 @@ There is beauty. But not everyone can see.
 
 It's an immensely useful tool. Find out more by [visiting the project on GitHub](https://github.com/jekyll/jekyll).
  -->
-<script src="https://utteranc.es/client.js"
-        repo="MoStories"
-        issue-term="pathname"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
