@@ -25,7 +25,7 @@ Year 2: Feb 2021- Feb 2022
 - Week 76: [The Gray Ghost]
 
 Year 1: Feb 2020-Feb 2021: 
-- Week 1: [Everything Has Beauty]
+- Week 1: [Everything Has Beauty](https://mohammadkhan-3.github.io/MoStories/short%20story/2020/02/17/Week-1.html)
 - Week 2: [The Speech]
 - Week 7: [Hope in a Bottle]
 - Week 8: [Evolution]
