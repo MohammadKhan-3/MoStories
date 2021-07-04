@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Screenplays
-permalink: /screenplay/
+permalink: /screenplays/
 ---
 Year 2: Feb 2021- Feb 2022
 - Week 55: [The Moose]
