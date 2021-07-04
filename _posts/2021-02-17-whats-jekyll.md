@@ -1,8 +1,9 @@
 ---
 layout: post
-title: What's Jekyll?
-category: [Example]
-tags: [jekyll]
+title: Week 1:Everything Has Beauty
+author: Mohammad Khan
+category: [Short Story]
+tags: [short story]
 ---
 <a href="https://drive.google.com/file/d/1e84QZkJCAxN5A-_vm2wxg9brhbet3KCy/view?usp=sharing">Everything Has Beauty.pdf </a>
 
