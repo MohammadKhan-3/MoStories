@@ -27,4 +27,5 @@ Some fun facts about the setup of this project include:
 - Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
 - Coded with [Sublime Text](https://www.sublimetext.com/), an amazing open-source code editor
 
-*The cover image is from [Benjamin Behre](https://unsplash.com/@hellothisisbenjamin)*
+<!-- *The cover image is from [Benjamin Behre](https://unsplash.com/@hellothisisbenjamin)*
+ -->
