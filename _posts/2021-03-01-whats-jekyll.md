@@ -4,6 +4,8 @@ title: What's Jekyll?
 category: [Example]
 tags: [jekyll]
 ---
+<a href="https://drive.google.com/file/d/1e84QZkJCAxN5A-_vm2wxg9brhbet3KCy/view?usp=sharing">Everything Has Beauty.pdf </a>
+
 <iframe
 src="https://drive.google.com/file/d/1e84QZkJCAxN5A-_vm2wxg9brhbet3KCy/view?usp=sharing&embedded=true"
 style="width:718px; height:700px;" frameborder="0"></iframe>
