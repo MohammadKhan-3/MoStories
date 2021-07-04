@@ -4,13 +4,15 @@ title: Subscribe
 permalink: /subscribe/
 ---
 
-## Subscribe for weekly stories every Monday Morning
-
+## Weekly Stories every Monday Morning
+<head>	
+	<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/3ae30c0eccdd0121a27df0a59/c5e7abef528d1fb3cbd14fd1c.js");</script>
+</head>
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	#mc_embed_signup{background:#282828; clear:left; font:14px Helvetica,Arial,sans-serif; }
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
