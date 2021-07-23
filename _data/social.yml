@@ -1,6 +1,3 @@
-# - title: Portfolio
-#   url: https://mohammadkhan-3.github.io/resume/
-#   icon: fas fa-envelope
 - title: LinkedIn
   url: https://www.linkedin.com/in/mohammadkhan1859
   icon: fab fa-linkedin
@@ -13,3 +10,6 @@
 - title: Wordpress
   url: https://mostories261398878.wordpress.com/
   icon: fab fa-wordpress
+- title: Portoflio
+  url: https://mohammadkhan-3.github.io/resume/
+  icon: fab fa-portfolio
