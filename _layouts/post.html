@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+<head>
+  <!-- add the button style & script -->
+  <link rel="stylesheet" href="applause-button.css" />
+  <script src="applause-button.js"></script>
+</head>
 
 <article class="post">
   {% if page.categories.size > 0 %}
@@ -65,7 +70,7 @@ layout: default
   {% if jekyll.environment == "production" and site.disqus and page.comments != false %}
     {% include disqus.html %}
   {% endif %}
-</article>
+<applause-button color = "#2B2928" class style= "width: 58px; height: 58px;"/>
 
 <!-- <script src="/js/jquery.min.js"></script>
 {% include comments.html element=".post-content" github_account="MohammadKhan-3/MoStories" require_cookie_consent="true" %}
