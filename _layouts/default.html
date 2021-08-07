@@ -5,8 +5,9 @@
   <body>
     <div id="layout" class="pure-g">
       <!-- Original: {% assign cover = site.cover | default: "https://cdn.jsdelivr.net/gh/zivong/jekyll-theme-hydure@master/cover.jpg" %} -->
-      
-      {% assign cover = site.cover | default: "https://media.discordapp.net/attachments/858864456641413172/873379196154568724/IMG_3256.jpg?width=278&height=418 %}
+            <!-- Edit default URL to change image -->
+
+      {% assign cover = site.cover | default: "https://drive.google.com/file/d/1mUr_AJjZ8iq0uaTyr7vl_qcdOBbx4YMx/view?usp=sharing %}
       {% if page.cover %}
         {% assign cover = page.cover %}
       {% endif %}
