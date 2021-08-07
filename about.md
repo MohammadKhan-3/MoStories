@@ -12,7 +12,7 @@ Mohammad Khan is a mechanical engineering student with a passion for writing sto
 
 He has been writing weekly stories & screenplays since Feb 2020 and posting them on his website: MoStories with the tagline Grab a cup of joe and read some Mo. The genres range from sci-fi to realistic fiction to creative nonfiction. He writes whatever story comes to mind and what he can finish within the week.
 
-When he’s not writing or engineering, he’s reading nonfiction books on variety of topics. Only to realize the world doesn’t open up to those who read but to those who explore. And that’s what he feels his purpose is when it comes to his stories, to explore.
+When he’s not writing or engineering, he’s reading nonfiction books on variety of topics. Only to realize that the world not only opens up to those who read but also to those who explore. And that’s what he feels his purpose is when it comes to his stories, a chance to explore.
 
 *Post Note: after writing this bio, the author realized, he knew nothing about writing author bios*
 
