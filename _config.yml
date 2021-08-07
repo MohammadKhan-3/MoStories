@@ -21,3 +21,11 @@ paginate: 3
 
 tags_path: /tags/
 categories_path: /categories/
+
+defaults:
+  # You can use the following to enable comments on all posts.
+  - scope:
+      type:            posts
+    values:
+      # https://applause-button.com/
+      applause_button:       true
