@@ -64,18 +64,20 @@ layout: default
   {% if jekyll.environment == "production" and site.disqus and page.comments != false %}
     {% include disqus.html %}
   {% endif %}
-  
 
-<head>
+  
+  {% include star-rating.html rating=2 %}
+
+<!-- <head> -->
   <!-- add the button style & script -->
-  <link rel="stylesheet" href="../assets/css/applause-button.css" />
+ <!--  <link rel="stylesheet" href="../assets/css/applause-button.css" />
   <script src="applause-button.js"></script>
 </head>
-<body>
+<body> -->
   <!-- add the button! -->
-  <applause-button color = "#ffffff" style="width: 58px; height: 58px;"/>
-</body>  
-
+<!--   <applause-button color = "#ffffff" style="width: 58px; height: 58px;"/>
+</body> -->  
+ -->
 </article>
 
 
