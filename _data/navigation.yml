@@ -12,9 +12,8 @@
   url: https://mohammadkhan-3.github.io/MoStories/tags/#memoir
 - title: Feedback
   url: /feedback/
-# - title: Subscribe for Weekly Stories
-#   url: http://eepurl.com/hziK8P
-  # /subscribe/
+- title: Subscribe for Weekly Stories
+  url: /subscribe/
 # - title: Download Jekyll Theme
 #   url: https://github.com/zivong/jekyll-theme-hydure/archive/refs/heads/master.zip
 #- title: GitHub
