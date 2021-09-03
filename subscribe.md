@@ -4,8 +4,10 @@ title: Subscribe
 permalink: /subscribe/
 ---
 
-## Weekly Stories every Monday Morning
-<head>	
+# Weekly Stories/Screenplays/Poems every Monday Morning
+<iframe src="https://mostories.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
+<!-- <head>	
 	<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/3ae30c0eccdd0121a27df0a59/c5e7abef528d1fb3cbd14fd1c.js");</script>
 </head>
 
@@ -26,6 +28,6 @@ permalink: /subscribe/
     <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
-</div>
+</div> -->
 
 <!--End mc_embed_signup-->

@@ -18,6 +18,7 @@ When he’s not writing or engineering, he’s reading nonfiction books on varie
 
 - View Mohammad Khan's other work on his [Online Portfolio](https://mohammadkhan-3.github.io/resume/)
 
+<iframe src="https://mostories.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 ## Setup
 
