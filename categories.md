@@ -12,7 +12,7 @@ permalink: /screenplay/
 layout: archive
 type: memoir
 title: Memoir
-permalink: /memoir/
+url: https://mohammadkhan-3.github.io/MoStories/tags/#memoir
 
 layout: archive
 type: Poem
