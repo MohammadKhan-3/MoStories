@@ -14,4 +14,14 @@ type: memoir
 title: Memoir
 permalink: /memoir/
 
+layout: archive
+type: Poem
+title: Poem
+permalink: /poem/
+
+layout: archive
+type: The Observer
+title: The Observer
+permalink: /the_observer/
+
 ---
